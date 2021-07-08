@@ -2,87 +2,87 @@
 - [day1](https://github.com/rchirag101/30DaysOfJava/tree/main/day1)
     - [FirstProg.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day1/FirstProg.java)
     - [VarDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day1/VarDemo.java)
-- day2
-    - StringDemo.java
-- day3
-    - StringDemo.java
-- day4
-    - StringDemo.java
-- day5
-    - Day9.java 
-    - StringDemo.java
-- day6
-    - OperatorsDemo.java
-- day7
-    - ConditionDemo.java
-- day8
-    - ConditionDemo.java       
-    - LoopsDemo.java 
-- day9
-    - LoopsDemo.java
-- day10
-    - LoopsDemo.java
-- day11
-    - LoopsDemo.java
-- day12
-    - LoopsDemo.java
-- day13
-    - ScannerDemo.java
-    - TypeCasting.java
-- day14
-    - ArrayDemo.java
-- day15
-    - ArrayDemo.java
-- day16
-    - MethodsDemo.java
-- day17
-    - ConstructorDemo.java
-- day18
-    - ConstructorDemo.java
-- day19
-    - ConstructorDemo.java
-- day20
-    - InheritanceDemo.java
-- day21
-    - StaticCounterDemo.java
-    - StaticDemo.java
-- day22
-    - StaticCounterDemo.java
-    - StaticDemo.java
-- day23
-    - FinalDemo.java
-- day24
-    - ThisDemo.java
-- day25
-    - AbstractDemo.java
-    - AbstractDemo2.java
-- day26
-    - InterfaceDemo.java
-- day27
-    - InterfaceDemo.java
-    - Java8DemoMethod.java
-- day28
-    - mypack
-        - A.java
-        - B.java
-        - C.java
-        - PackageDemo.java
-- day29
-    - PolymorphismDemo.java
-    - PolymorphismDemo2.java
-- day30
-    - ExceptionDemo.java
+- [day2](https://github.com/rchirag101/30DaysOfJava/tree/main/day2)
+    - [StringDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day2/StringDemo.java)
+- [day3](https://github.com/rchirag101/30DaysOfJava/tree/main/day3)
+    - [StringDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day3/StringDemo.java)
+- [day4](https://github.com/rchirag101/30DaysOfJava/tree/main/day4)
+    - [StringDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day4/StringDemo.java)
+- [day5](https://github.com/rchirag101/30DaysOfJava/tree/main/day5)
+    - [Day9.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day5/Day9.java) 
+    - [StringDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day5/StringDemo.java)
+- [day6](https://github.com/rchirag101/30DaysOfJava/tree/main/day6)
+    - [OperatorsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day6/OperatorsDemo.java)
+- [day7](https://github.com/rchirag101/30DaysOfJava/tree/main/day7)
+    - [ConditionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day7/ConditionDemo.java)
+- [day8](https://github.com/rchirag101/30DaysOfJava/tree/main/day8)
+    - [ConditionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day8/ConditionDemo.java)       
+    - [LoopsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day8/LoopsDemo.java) 
+- [day9](https://github.com/rchirag101/30DaysOfJava/tree/main/day9)
+    - [LoopsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day9/LoopsDemo.java)
+- [day10](https://github.com/rchirag101/30DaysOfJava/tree/main/day10)
+    - [LoopsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day10/LoopsDemo.java)
+- [day11](https://github.com/rchirag101/30DaysOfJava/tree/main/day11)
+    - [LoopsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day11/LoopsDemo.java)
+- [day12](https://github.com/rchirag101/30DaysOfJava/tree/main/day12)
+    - [LoopsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day12/LoopsDemo.java)
+- [day13](https://github.com/rchirag101/30DaysOfJava/tree/main/day13)
+    - [ScannerDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day13/ScannerDemo.java)
+    - [TypeCasting.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day13/TypeCasting.java)
+- [day14](https://github.com/rchirag101/30DaysOfJava/tree/main/day14)
+    - [ArrayDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day14/ArrayDemo.java)
+- [day15](https://github.com/rchirag101/30DaysOfJava/tree/main/day15)
+    - [ArrayDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day15/ArrayDemo.java)
+- [day16](https://github.com/rchirag101/30DaysOfJava/tree/main/day16)
+    - [MethodsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day16/MethodsDemo.java)
+- [day17](https://github.com/rchirag101/30DaysOfJava/tree/main/day17)
+    - [ConstructorDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day17/ConstructorDemo.java)
+- [day18](https://github.com/rchirag101/30DaysOfJava/tree/main/day18)
+    - [ConstructorDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day18/ConstructorDemo.java)
+- [day19](https://github.com/rchirag101/30DaysOfJava/tree/main/day19)
+    - [ConstructorDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day19/ConstructorDemo.java)
+- [day20](https://github.com/rchirag101/30DaysOfJava/tree/main/day20)
+    - [InheritanceDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day20/InheritanceDemo.java)
+- [day21](https://github.com/rchirag101/30DaysOfJava/tree/main/day21)
+    - [StaticCounterDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day21/StaticCounterDemo.java)
+    - [StaticDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day21/StaticDemo.java)
+- [day22](https://github.com/rchirag101/30DaysOfJava/tree/main/day22)
+    - [StaticCounterDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day22/StaticCounterDemo.java)
+    - [StaticDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day22/StaticDemo.java)
+- [day23](https://github.com/rchirag101/30DaysOfJava/tree/main/day23)
+    - [FinalDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day23/FinalDemo.java)
+- [day24](https://github.com/rchirag101/30DaysOfJava/tree/main/day24)
+    - [ThisDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day24/ThisDemo.java)
+- [day25](https://github.com/rchirag101/30DaysOfJava/tree/main/day25)
+    - [AbstractDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day25/AbstractDemo.java)
+    - [AbstractDemo2.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day25/AbstractDemo2.java)
+- [day26](https://github.com/rchirag101/30DaysOfJava/tree/main/day26)
+    - [InterfaceDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day26/InterfaceDemo.java)
+- [day27](https://github.com/rchirag101/30DaysOfJava/tree/main/day27)
+    - [InterfaceDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day27/InterfaceDemo.java)
+    - [Java8DemoMethod.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day27/Java8DemoMethod.java)
+- [day28](https://github.com/rchirag101/30DaysOfJava/tree/main/day28)
+    - [mypack](https://github.com/rchirag101/30DaysOfJava/tree/main/day28/mypack)
+        - [A.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day28/mypack/A.java)
+        - [B.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day28/mypack/B.java)
+        - [C.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day28/mypack/C.java)
+        - [PackageDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day28/mypack/PackageDemo.java)
+- [day29](https://github.com/rchirag101/30DaysOfJava/tree/main/day29)
+    - [PolymorphismDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day29/PolymorphismDemo.java)
+    - [PolymorphismDemo2.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day29/PolymorphismDemo2.java)
+- [day30](https://github.com/rchirag101/30DaysOfJava/tree/main/day30)
+    - [ExceptionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day30/ExceptionDemo.java)
 ###### Bonus 
-- day31
-    - ExceptionDemo.java
-- day32
-    - ExceptionDemo.java
-    - FinallyDemo.java
-- day33
-    - ExceptionPropagationDemo.java
-    - ThrowDemo.java
-    - ThrowsDemo.java
-- day34
-    - InheriteDemo.java
-    - MyExceptionDemo.java
-    - ThrowsDemo.java            
+- [day31](https://github.com/rchirag101/30DaysOfJava/tree/main/day31)
+    - [ExceptionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day31/ExceptionDemo.java)
+- [day32](https://github.com/rchirag101/30DaysOfJava/tree/main/day32)
+    - [ExceptionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day32/ExceptionDemo.java)
+    - [FinallyDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day32/FinallyDemo.java)
+- [day33](https://github.com/rchirag101/30DaysOfJava/tree/main/day33)
+    - [ExceptionPropagationDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day33/ExceptionPropagationDemo.java)
+    - [ThrowDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day33/ThrowDemo.java)
+    - [ThrowsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day33/ThrowsDemo.java)
+- [day34](https://github.com/rchirag101/30DaysOfJava/tree/main/day34)
+    - [InheriteDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day34/InheriteDemo.java)
+    - [MyExceptionDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day34/MyExceptionDemo.java)
+    - [ThrowsDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day34/ThrowsDemo.java)            
