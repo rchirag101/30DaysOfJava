@@ -1,7 +1,7 @@
 ## Index
-- day1
-    - FirstProg.java
-    - VarDemo.java
+- [day1](https://github.com/rchirag101/30DaysOfJava/tree/main/day1)
+    - [FirstProg.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day1/FirstProg.java)
+    - [VarDemo.java](https://github.com/rchirag101/30DaysOfJava/blob/main/day1/VarDemo.java)
 - day2
     - StringDemo.java
 - day3
